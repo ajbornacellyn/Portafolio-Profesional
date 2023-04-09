@@ -5,12 +5,16 @@ description: A blog about lorem ipsum dolor sit amet
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Anon Developer
-user_description: Bicycle rights irony actually neutra typewriter lyft. Man bun taxidermy put a bird on it, umami yr ramps pop-up ugh bushwick chia lo-fi. Occupy bitters pour-over snackwave you probably haven't heard of them small batch. Cornhole mustache man bun letterpress echo park VHS.
-user_title: Software Developer
-email: anon@anon.com
+username: Aldo Junior Bornacelly Navarro
+user_description: As far as my expertise is concerned, I have a strong foundation in software development, with a focus on full-stack web development using technologies such as React, Node.js, and MongoDB. I am skilled in creating responsive and user-friendly web applications, as well as optimizing performance and scalability.
+
+In addition to my technical skills, I also have experience working in agile development environments, collaborating with cross-functional teams, and managing project timelines and deliverables. I have a keen eye for detail and a passion for creating high-quality software that meets user needs and exceeds expectations.
+
+Overall, I am confident in my ability to contribute my expertise to any team or project, and I am constantly seeking opportunities to learn and grow in my field.
+user_title: Systems engineer
+email: bornacelinavarro@gmail.com
 twitter_username: lorem_ipsum
-github_username:  lorem_ipsum
+github_username:  ajbornacellyn
 gplus_username:  lorem_ipsum
 
 # Google-analytics
